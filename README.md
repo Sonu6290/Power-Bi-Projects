@@ -137,3 +137,7 @@ Open in Power BI Desktop
 No data gateway or fresh connection required
 
 Publish to Power BI Service (optional)
+
+	Screenshots / Demos
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview]()

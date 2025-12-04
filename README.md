@@ -138,6 +138,6 @@ No data gateway or fresh connection required
 
 Publish to Power BI Service (optional)
 
-	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview]()
+	Screenshots / Demos 
+	
+Show what the dashboard looks like.---  ![Dashboard Preview](https://github.com/Sonu6290/Power-Bi-Projects/blob/main/Medical%20report%20dashboard.png)
